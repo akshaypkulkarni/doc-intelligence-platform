@@ -1,16 +1,10 @@
-# AI Document Platform
+# Document Intelligence Platform
 
-A document intelligence platform that demonstrates enterprise-grade software engineering practices and modern AI/ML integration patterns.
+A production-ready document intelligence platform that transforms how organizations process, analyze, and search through their document collections using advanced AI capabilities.
 
-## Project Goals
+## Overview
 
-This platform showcases:
-
-- **Modern Python Architecture**: Clean architecture with FastAPI, async programming, and dependency injection
-- **AI/ML Integration**: Real-world implementation of OpenAI embeddings, vector search, and semantic analysis
-- **Cloud-Native Design**: Containerized microservices with AWS integration and scalable infrastructure
-- **Production Best Practices**: Comprehensive testing, CI/CD, monitoring, and security patterns
-- **Developer Experience**: Modern tooling with UV, pre-commit hooks, and automated code quality
+The Document Intelligence Platform enables organizations to unlock the value hidden in their document repositories through AI-powered analysis, semantic search, and automated content extraction. Built with modern Python architecture and cloud-native design principles.
 
 ## What This Platform Does
 

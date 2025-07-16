@@ -1,7 +1,7 @@
 [project]
 name = "ai-document-platform"
 version = "0.1.0"
-description = "AI-Powered Document Intelligence Platform for portfolio demonstration"
+description = "Document Intelligence Platform"
 readme = "README.md"
 authors = [
     { name = "akshaypkulkarni", email = "95195789+akshaypkulkarni@users.noreply.github.com" }

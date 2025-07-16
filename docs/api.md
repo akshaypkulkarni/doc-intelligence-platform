@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI Document Platform provides a RESTful API built with FastAPI, featuring automatic OpenAPI documentation, type safety, and async support.
+The Document Intelligence Platform provides a RESTful API built with FastAPI, featuring automatic OpenAPI documentation, type safety, and async support.
 
 ## Base URL
 
@@ -23,7 +23,7 @@ Root endpoint providing basic API information.
 **Response:**
 ```json
 {
-  "message": "AI Document Platform API",
+  "message": "Document Intelligence Platform API",
   "version": "0.1.0"
 }
 ```
@@ -35,7 +35,7 @@ Health check endpoint for monitoring and load balancer probes.
 ```json
 {
   "status": "healthy",
-  "service": "ai-document-platform"
+  "service": "document-intelligence-platform"
 }
 ```
 

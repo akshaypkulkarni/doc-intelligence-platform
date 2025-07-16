@@ -1,4 +1,4 @@
--- Initialize AI Document Platform Database
+-- Initialize Document Intelligence Platform Database
 -- This script sets up the initial database structure
 
 -- Create extensions if needed

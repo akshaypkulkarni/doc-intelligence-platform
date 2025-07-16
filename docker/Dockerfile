@@ -1,4 +1,4 @@
-# Multi-stage build for AI Document Platform
+# Multi-stage build for Document Intelligence Platform
 FROM python:3.9-slim as builder
 
 # Install UV
